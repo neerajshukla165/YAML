@@ -190,3 +190,7 @@ I hope you understood the difference between the three and when to use each of t
                                          Transmission: Manual
                                          Price: Rs.1500000
 ```
+
+References:
+1. Course on Ansible by Mumshad Mannambeth
+2. YAML Crash course by Hitesh Choudhary- https://www.youtube.com/watch?v=9BGWtTahGnw
