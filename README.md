@@ -8,7 +8,6 @@ If you have worked with other data structure formats like XML or JSON, you shoul
 
 Don't worry. If you haven't worked on any of these, you should still be able to easily pick it up.
 
-Going through the coding exercises that accompany this page.
 
 ## Introduction
 
