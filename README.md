@@ -194,11 +194,19 @@ I hope you understood the difference between the three and when to use each of t
 ```
 
 ## Example 2
+![excel 2 ss](https://user-images.githubusercontent.com/79436509/119291227-ba6a8e00-bc6b-11eb-9bf3-c0c4e2fd37f3.JPG)
+![yaml2](https://user-images.githubusercontent.com/79436509/119291237-bfc7d880-bc6b-11eb-90bd-72f83f7a3624.JPG) 
 
+
+
+## Example 3
+In this example we have added number of columns as compared to above example, so that you can get more familiar wuth YAML hands on. There are two ways to represent the data from excel to YAML. Both are given below. 
 ![Excel 1 ss](https://user-images.githubusercontent.com/79436509/119291111-7d9e9700-bc6b-11eb-80b5-8748dcc4a21c.JPG)
 ![yaml1](https://user-images.githubusercontent.com/79436509/119291139-85f6d200-bc6b-11eb-8f35-ab410f6e515b.JPG)
+![yaml 1 1](https://user-images.githubusercontent.com/79436509/119291832-c7d44800-bc6c-11eb-845e-0c4b68a88003.JPG)
 
-
+The more you practice YAML, the more you become familiar to it.
 References:
 1. Course on Ansible by Mumshad Mannambeth
 2. YAML Crash course by Hitesh Choudhary- https://www.youtube.com/watch?v=9BGWtTahGnw
+3. https://kodekloud.com/p/ansible-practice-test/?scenario=questions_yaml
