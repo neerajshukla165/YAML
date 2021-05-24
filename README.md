@@ -202,6 +202,8 @@ I hope you understood the difference between the three and when to use each of t
 
 ## Example 3
 In this example we have added number of columns as compared to above example, so that you can get more familiar wuth YAML hands on. There are two ways to represent the data from excel to YAML. Both are given below. 
+
+
 ![Excel 1 ss](https://user-images.githubusercontent.com/79436509/119291111-7d9e9700-bc6b-11eb-80b5-8748dcc4a21c.JPG)
 ![yaml1](https://user-images.githubusercontent.com/79436509/119291139-85f6d200-bc6b-11eb-8f35-ab410f6e515b.JPG)
 ![yaml 1 1](https://user-images.githubusercontent.com/79436509/119291832-c7d44800-bc6c-11eb-845e-0c4b68a88003.JPG)
