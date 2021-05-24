@@ -8,6 +8,8 @@ If you have worked with other data structure formats like XML or JSON, you shoul
 
 Don't worry. If you haven't worked on any of these, you should still be able to easily pick it up.
 
+Note: If you are new to these formats, start with YAML, then XML and then JSON. 
+
 
 ## Introduction
 
@@ -106,7 +108,7 @@ The number of spaces before each property is key in YAML,
 you must ensure they're in the right form to represent your data correctly.
 
 
-## Example
+## Example 1
 
 First of all, it is important to understand that all of what we've discussed so far such as XML, JSON, or YAML are used to represent data.
 
@@ -190,6 +192,12 @@ I hope you understood the difference between the three and when to use each of t
                                          Transmission: Manual
                                          Price: Rs.1500000
 ```
+
+## Example 2
+
+![Excel 1 ss](https://user-images.githubusercontent.com/79436509/119291111-7d9e9700-bc6b-11eb-80b5-8748dcc4a21c.JPG)
+![yaml1](https://user-images.githubusercontent.com/79436509/119291139-85f6d200-bc6b-11eb-8f35-ab410f6e515b.JPG)
+
 
 References:
 1. Course on Ansible by Mumshad Mannambeth
