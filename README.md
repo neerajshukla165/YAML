@@ -195,7 +195,8 @@ I hope you understood the difference between the three and when to use each of t
 
 ## Example 2
 ![excel 2 ss](https://user-images.githubusercontent.com/79436509/119291227-ba6a8e00-bc6b-11eb-9bf3-c0c4e2fd37f3.JPG)
-![yaml2](https://user-images.githubusercontent.com/79436509/119291237-bfc7d880-bc6b-11eb-90bd-72f83f7a3624.JPG) 
+![yaml2 1](https://user-images.githubusercontent.com/79436509/119292558-454c8800-bc6e-11eb-8e8d-fed0f0339642.JPG)
+
 
 
 
